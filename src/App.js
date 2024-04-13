@@ -8,7 +8,8 @@ function App() {
       <div className='codemonkey-logo-contenedor'>
         <img 
         src={CodeMonkeyLogo }
-        className='codemonkey-logo' 
+        alt='Code Monkey Logo' 
+        className='codemonkey-logo'
         />
       </div>
 
